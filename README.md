@@ -5,4 +5,3 @@
 
 [Slides](https://slides.com/kikkirej/gitswk/)
 
-hi
